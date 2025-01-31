@@ -1,0 +1,92 @@
+[
+    {
+        "autor": "Jorge Debravo",
+        "obra": "Los despiertos",
+        "fecha": 1960,
+        "poema": "Quisiera ser un río de muchísima gente, / un río de corazones humanos, / de pueblos y ciudades y países, / y avanzar, avanzar incesantemente..."
+    },
+    {
+        "autor": "Joaquín Gutiérrez",
+        "obra": "Puerto Limón",
+        "fecha": 1950,
+        "poema": "Puerto Limón huele a sal y a madera, / a banana podrida y a sol, / a negro sudado, a mar y a frontera, / a sueño, a esperanza y a alcohol."
+    },
+    {
+        "autor": "Isaac Felipe Azofeifa",
+        "obra": "Vigilia en pie de muerte",
+        "fecha": 1968,
+        "poema": "Si se calla mi voz en la sombra, / no creas que es el fin, / porque queda mi canto en el viento, / y mi sangre en el alba sin fin."
+    },
+    {
+        "autor": "Julieta Dobles",
+        "obra": "Hojas de otoño",
+        "fecha": 1988,
+        "poema": "Las hojas de otoño susurran mi nombre, / me cuentan secretos de viento y de sol, / y en su despedida dorada y solemne, / la vida me canta su dulce canción."
+    },
+    {
+        "autor": "Carlos Luis Sáenz",
+        "obra": "Rutas",
+        "fecha": 1936,
+        "poema": "El camino se pierde en la brisa, / se oculta tras sombras de abril, / y el alma persigue su risa, / sin miedo al destino sutil."
+    },
+    {
+        "autor": "Max Jiménez",
+        "obra": "Sonetos",
+        "fecha": 1937,
+        "poema": "Hombre de arcilla y viento, / de raíces y soledad, / buscas el mar en el tiempo, / con sed de inmensidad."
+    },
+    {
+        "autor": "Leda Cavallini",
+        "obra": "Oasis de sombras",
+        "fecha": 1958,
+        "poema": "Hay un oasis en mi alma, / donde la sombra es caricia, / donde el viento canta suave, / y la noche es voz tibia."
+    },
+    {
+        "autor": "Laureano Albán",
+        "obra": "Clamor en la sangre",
+        "fecha": 1979,
+        "poema": "Mis venas son ríos de fuego, / mi piel, un desierto en dolor, / pero el alma se alza en el cielo, / buscando un destino mayor."
+    },
+    {
+        "autor": "Ronald Bonilla",
+        "obra": "Umbral",
+        "fecha": 1981,
+        "poema": "Abro la puerta del alba, / cruzo el umbral del ayer, / y en el viento que me llama, / dejo mi sombra caer."
+    },
+    {
+        "autor": "Osvaldo Sauma",
+        "obra": "Bitácora del iluso",
+        "fecha": 1996,
+        "poema": "Escribo en las olas del tiempo, / cartas que nadie leerá, / testigos de un hombre errante, / que nunca dejó de soñar."
+    },
+    {
+        "autor": "David Cruz",
+        "obra": "Teoría del descenso",
+        "fecha": 2005,
+        "poema": "Caemos como hojas en otoño, / sin mapa, sin brújula, sin sol, / pero en la caída aprendemos, / que el suelo es un nuevo color."
+    },
+    {
+        "autor": "Eunice Odio",
+        "obra": "El tránsito de fuego",
+        "fecha": 1957,
+        "poema": "Arde la voz en mi pecho, / como un río de lava y de sal, / y el mundo entero estremece, / en su tránsito infernal."
+    },
+    {
+        "autor": "Mario Matarrita",
+        "obra": "Poemas para gente sin futuro",
+        "fecha": 1993,
+        "poema": "¿Qué es el futuro sino humo? / Un tren que nunca llegó, / un reloj sin agujas, / un sol que el viento apagó."
+    },
+    {
+        "autor": "Mauricio Molina",
+        "obra": "Los espejos y la niebla",
+        "fecha": 2012,
+        "poema": "Los espejos guardan secretos, / las sombras ocultan la piel, / y en la niebla de la memoria, / se dibuja lo que fue."
+    },
+    {
+        "autor": "Aquileo Echeverría",
+        "obra": "Concherías",
+        "fecha": 1905,
+        "poema": "Había una vez un hombre, / con el pescuezo torcido, / que se hacía el distraído / pa no dar nunca su nombre."
+    }
+]
